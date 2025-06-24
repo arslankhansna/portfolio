@@ -12,6 +12,7 @@ main {
 }
 
 h1 {
+  font: 'Times New Roman';
   color: #1976d2;
   margin-bottom: 1rem;
 }
