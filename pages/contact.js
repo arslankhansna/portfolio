@@ -6,7 +6,7 @@ export default function Contact() {
       <h1>Contact Me</h1>
       <p>Email: <a href="mailto:arslankhansna@gmail.com">arslankhansna@gmail.com</a></p>
       <p>Location: Bengaluru, India</p>
-      <p>Phone:<a href="8618414811"</a></p>
+      <p>Phone:8618414811</p>
     </Layout>
   );
 }
