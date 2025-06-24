@@ -4,6 +4,7 @@ body {
   background-color: #eef2f7;
   color: #333;
 }
+background: linear-gradient(to right, #ff6b6b, #f7d794, #1dd1a1);
 
 main {
   padding: 2rem;
